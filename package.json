@@ -1,0 +1,27 @@
+{
+  "name": "WebGL-demo",
+  "description": "WebGL examples",
+  "version": "1.0.0",
+  "author": {
+    "name": "karoo",
+    "email": "nt10@163.com",
+    "url": "karoo.github.io"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .js lib"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-basis": "^0.2.0"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
